@@ -11,4 +11,5 @@ docker pull smalls0098/go-alpine:3.15.4
 ### Installation
 ```shell
 docker pull smalls0098/opencv:4.5.5
+docker pull smalls0098/opencv:4.7.0
 ```
