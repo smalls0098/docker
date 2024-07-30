@@ -3,6 +3,8 @@
 
 ### Installation
 ```shell
+docker pull smalls0098/go-alpine:3.20.2
+docker pull smalls0098/go-alpine:3.19.1
 docker pull smalls0098/go-alpine:3.15.4
 ```
 
